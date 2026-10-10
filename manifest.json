@@ -1,0 +1,15 @@
+{
+  "display_name": "安静输入",
+  "loading_order": 1,
+  "js": "index.js",
+  "author": "Private User",
+  "version": "1.0.0",
+  "auto_update": false,
+  "hooks": {
+    "activate": "onActivate",
+    "enable": "onEnable",
+    "disable": "onDisable",
+    "delete": "onDelete"
+  },
+  "homePage": "https://github.com/beholder100863/st-quiet-input"
+}
