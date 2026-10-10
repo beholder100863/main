@@ -23,7 +23,7 @@ st-quiet-input/
 
 ## Git URL 安装
 
-Git URL: https://github.com/beholder100863/st-quiet-input.git
+Git URL: [https://github.com/beholder100863/st-quiet-input.git](https://github.com/beholder100863/main.git)
 分支: main
 
 生成地址并不表示仓库已经存在。请先手动创建或选择仓库，并上传文件。此工具不会创建外部仓库或公开任何文件。
